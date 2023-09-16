@@ -1,0 +1,17 @@
+{
+    "name": "MackySoft.MessagePack.AsyncReactivePropertyExtensions",
+    "rootNamespace": "MessagePack.AsyncReactivePropertyExtension",
+    "references": [
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:bbde805d927e795439d7a746d1749cab"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}
